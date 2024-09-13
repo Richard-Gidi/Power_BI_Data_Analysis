@@ -54,6 +54,8 @@ The two data were modeled to facilitate easier analysis and visualization.The st
 
 **Total Shootings by Month**: March experienced the highest number of shootings (505), while the trend shows a gradual decline towards the end of the year.
 
+![image](https://github.com/user-attachments/assets/ad7f576a-b491-4c58-ad01-b4da4aabe992)
+
 ### Individual Dashboard
 **Manner of Death**: A vast majority of incidents (94.93%) involved victims being shot, with only a small fraction being shot and tasered.
 
