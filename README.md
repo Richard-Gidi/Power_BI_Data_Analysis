@@ -65,6 +65,13 @@ The two data were modeled to facilitate easier analysis and visualization.The st
 
 **Total Shootings by Armed Category**: Guns were the most common weapon used in shootings (274), with other categories like sharp objects and unarmed individuals also represented.
 
+### Police Dashboard
+![image](https://github.com/user-attachments/assets/da34fb5c-4177-477e-b091-5cd0b48e2996)
+
+### Demographic Dashboard
+![image](https://github.com/user-attachments/assets/e0528655-86b4-4cf4-b77e-3db6dd319cf1)
+
+
 ## Recommendations
 
 While the data indicates that a significant number of White individuals were involved in police shootings, it is essential to contextualize these figures within the broader demographic landscape of the United States. Given that White individuals make up a substantial portion of the overall population, the number of shootings involving White victims may not indicate a disproportionate impact compared to other racial groups.
