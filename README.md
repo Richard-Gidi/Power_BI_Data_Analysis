@@ -43,8 +43,6 @@ The gender column, originally encoded with "M" and "F", was updated to more desc
 3. **State Abbreviations**: 
 The two data were modeled to facilitate easier analysis and visualization.The states in the dataset were abbreviated (e.g., Ohio as OH). To enhance clarity, a new dataset containing the names of states and their abbreviations was imported into the workspace.
 
-![image](https://github.com/user-attachments/assets/14d89ec6-65f1-4fe7-992f-cd1946cc58ac)
-
 ### Overview Dashboard
 **Total Shootings by Gender** : A significant majority of victims (95.46%) are male, with females accounting for only 4.54%.
 
@@ -53,8 +51,8 @@ The two data were modeled to facilitate easier analysis and visualization.The st
 **Total Shootings by Age Group**: The age group 15-34 has the highest number of police shootings (259), indicating a concerning trend among younger individuals.
 
 **Total Shootings by Month**: March experienced the highest number of shootings (505), while the trend shows a gradual decline towards the end of the year.
+![image](https://github.com/user-attachments/assets/14d89ec6-65f1-4fe7-992f-cd1946cc58ac)
 
-![image](https://github.com/user-attachments/assets/ad7f576a-b491-4c58-ad01-b4da4aabe992)
 
 ### Individual Dashboard
 **Manner of Death**: A vast majority of incidents (94.93%) involved victims being shot, with only a small fraction being shot and tasered.
@@ -64,9 +62,12 @@ The two data were modeled to facilitate easier analysis and visualization.The st
 **Total Shootings by Threat Level**: Most shootings were labeled as attacks (3,160), indicating a high level of perceived threat during these incidents.
 
 **Total Shootings by Armed Category**: Guns were the most common weapon used in shootings (274), with other categories like sharp objects and unarmed individuals also represented.
+![image](https://github.com/user-attachments/assets/ad7f576a-b491-4c58-ad01-b4da4aabe992)
+
 
 ### Police Dashboard
 ![image](https://github.com/user-attachments/assets/da34fb5c-4177-477e-b091-5cd0b48e2996)
+
 
 ### Demographic Dashboard
 ![image](https://github.com/user-attachments/assets/e0528655-86b4-4cf4-b77e-3db6dd319cf1)
