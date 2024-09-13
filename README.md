@@ -43,6 +43,7 @@ The gender column, originally encoded with "M" and "F", was updated to more desc
 3. **State Abbreviations**: 
 The two data were modeled to facilitate easier analysis and visualization.The states in the dataset were abbreviated (e.g., Ohio as OH). To enhance clarity, a new dataset containing the names of states and their abbreviations was imported into the workspace.
 
+![image](https://github.com/user-attachments/assets/14d89ec6-65f1-4fe7-992f-cd1946cc58ac)
 
 ### Overview Dashboard
 **Total Shootings by Gender** : A significant majority of victims (95.46%) are male, with females accounting for only 4.54%.
