@@ -51,6 +51,8 @@ The two data were modeled to facilitate easier analysis and visualization.The st
 **Total Shootings by Age Group**: The age group 15-34 has the highest number of police shootings (259), indicating a concerning trend among younger individuals.
 
 **Total Shootings by Month**: March experienced the highest number of shootings (505), while the trend shows a gradual decline towards the end of the year.
+
+
 ![image](https://github.com/user-attachments/assets/14d89ec6-65f1-4fe7-992f-cd1946cc58ac)
 
 
@@ -62,6 +64,8 @@ The two data were modeled to facilitate easier analysis and visualization.The st
 **Total Shootings by Threat Level**: Most shootings were labeled as attacks (3,160), indicating a high level of perceived threat during these incidents.
 
 **Total Shootings by Armed Category**: Guns were the most common weapon used in shootings (274), with other categories like sharp objects and unarmed individuals also represented.
+
+
 ![image](https://github.com/user-attachments/assets/ad7f576a-b491-4c58-ad01-b4da4aabe992)
 
 
