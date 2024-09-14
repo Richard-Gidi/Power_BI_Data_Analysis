@@ -6,8 +6,8 @@ Welcome to the Power BI Analysis Repository! This repository contains various pr
 
 Power BI Analysis Repository/
 ── Project_1/
-│   ├── Project_1.pbix
-│   ├── dataset/
+── Project_1.pbix
+── dataset/
 │   │   └── Project_1_dataset.csv
 │   └── README.md
 │
