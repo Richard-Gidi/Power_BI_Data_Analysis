@@ -43,6 +43,9 @@ The dataset consists of the following columns:
 - **Total Sales by Country**: A geographical representation of sales distribution by country.
 - **Total Profit by Segment**: A pie chart breaking down profit contributions by market segment.
 
+  
+![image](https://github.com/user-attachments/assets/bdef6c0d-4264-4fc4-acca-09a8f7ffbf1c)
+
 
 
 ### Discount Analysis Report
@@ -56,7 +59,8 @@ The dataset consists of the following columns:
 - **Manufacturing Cost by Product**: A bar chart comparing manufacturing costs across products.
 - **Total Sales Per Discount Band**: A stacked bar chart illustrating sales categorized by discount levels.
 
-![Discount Analysis Report](insert_discount_analysis_image_url_here)
+![image](https://github.com/user-attachments/assets/85247c07-41a5-4699-b863-b6dbb3372ccd)
+
 
 ## Objectives
 
