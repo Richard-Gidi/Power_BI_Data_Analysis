@@ -4,7 +4,7 @@ Welcome to the Power BI Analysis Repository! This repository contains various pr
 
 ## Repository Structure
 
-Power BI Analysis Repository/
+Power BI Analysis Repository
 ── Project_1
 ── Project_1.pbix
 ── dataset/
