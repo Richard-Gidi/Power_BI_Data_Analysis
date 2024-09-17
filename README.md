@@ -1,6 +1,6 @@
 # Power BI Analysis Repository
 
-Welcome to the Power BI Analysis Repository! This repository contains various projects that utilize Power BI for data analysis and visualization. Each project is organized into its own folder, making it easy to navigate and find specific analyses.
+Welcome to the Power BI Analysis Repository! This repository contains various projects that utilize Power BI for data analysis and visualization. Each project is organized into its own folder, making it easy to navigate and find specific analysis.
 
 ## Overview
 
