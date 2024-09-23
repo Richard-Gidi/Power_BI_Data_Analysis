@@ -44,3 +44,8 @@ Key takeaways from the analysis include:
 Price variations are significant between regions, with urbanized areas showing higher costs.
 Imported rice is consistently priced higher than local rice, emphasizing the need for increased local production.
 Food prices show clear seasonal variations, with dips and peaks aligned with harvest seasons and economic conditions.
+
+
+## Sneak Peak 
+![Capture 3](https://github.com/user-attachments/assets/902e73fd-d94f-4ff9-815b-6249262b267b)
+
